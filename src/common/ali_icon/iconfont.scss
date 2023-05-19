@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4076835 */
+  src: url('/src/common/ali_icon/iconfont.woff2?t=1684482721261') format('woff2'),
+       url('/src/common/ali_icon/iconfont.woff?t=1684482721261') format('woff'),
+       url('/src/common/ali_icon/iconfont.woff2') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-caidan:before { // 菜单图标
+  content: "\e62c";
+}
+
+.icon-search:before { // 搜索图标
+  content: "\e6f8";
+}
+
