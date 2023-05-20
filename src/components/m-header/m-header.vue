@@ -3,11 +3,11 @@
          <!-- 标题 -->
          <h1 class="text">VMUSICJIN</h1>
          <!-- 左侧菜单图标 -->
-         <router-link to="/" class="mine">
+         <router-link to="/user" class="mine" tag="div">
                 <i class="iconfont icon-caidan"></i>
          </router-link>
           <!-- 右侧搜索图标 -->
-         <router-link to="/" class="search">
+         <router-link to="/search" class="search" tag="div">
                 <i class="iconfont icon-search"></i>
          </router-link>
     </div>
