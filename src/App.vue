@@ -4,6 +4,8 @@
        <MHeader></Mheader>
        <!-- 导航栏 -->
        <Tab></Tab>
+       <!-- 路由占位符 -->
+       <router-view></router-view>
   </div>
 </template>
 <script>
