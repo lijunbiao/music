@@ -1,4 +1,4 @@
-# music
+# 基于Vue的移动端音乐播放器
 
 ## Project setup
 ```
